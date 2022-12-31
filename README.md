@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi!%20I'm%20Jinyoung!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi!%20I'm%20Jinyoung!&fontSize=40)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
