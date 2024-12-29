@@ -1,8 +1,7 @@
 ## I am `Jinyoung Han`
-
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jyhan1&show_icons=true" alt="738" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api??username=Jyhan1&show_icons=true&&theme=default" alt="738" /></p>
 </div>
 
 </br>
