@@ -18,9 +18,9 @@
 
 ### Currently
 
-- 🏢 Building enterprise solutions at **LG CNS**
-- 🔍 Exploring **System Architecture** & **AI Native**
-- 💡 Interested in **Performance Optimization** & **User Experience**
+- 🏢 **LG CNS**
+- 🔍 **System Architecture** · **AI Native**
+- 💡 **Performance** · **UX**
 
 ---
 
